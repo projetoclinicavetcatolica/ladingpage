@@ -1,0 +1,1 @@
+alert("olá seja bem vindo a aréa de cadastro");
